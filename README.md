@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan0953
-- 👀 I’m interested in Software and Web Developing
-- 🌱 I’m currently learning High-end Web Developing
+- 👀 I’m interested in Software and Web Development
+- 🌱 I’m currently learning Full-stack Web Development
 - 📫 How to reach me - guptarohan0953@gmail.com
 
 <!---
